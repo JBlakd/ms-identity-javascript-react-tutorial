@@ -4,9 +4,9 @@
     "AzureWebJobsStorage": "",
     "FUNCTIONS_WORKER_RUNTIME": "node",
     "WEBSITE_NODE_DEFAULT_VERSION": "~12",
-    "CLIENT_ID": null,
-    "CLIENT_SECRET": null,
-    "TENANT_INFO": null,
+    "CLIENT_ID": "8f148966-c661-4a01-8021-256b72957274",
+    "CLIENT_SECRET": "Gda8Q~9QiTDYkJpqzwMZdza1Vr-PxUWTwpfgJay3",
+    "TENANT_INFO": "171beed9-e95d-43b7-8bdc-54cd53b9d132",
     "EXPECTED_SCOPES": "access_as_user"
   }
 }

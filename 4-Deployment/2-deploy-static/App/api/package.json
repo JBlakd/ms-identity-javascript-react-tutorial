@@ -11,5 +11,6 @@
     "@azure/msal-node": "^1.0.0",
     "node-fetch": "^2.6.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "proxy": "http://localhost:7071"
 }
